@@ -12,9 +12,8 @@ The Mesonet Cattle Comfort Advisor model was developed and introduced as the Com
 
 add addition thoughts
 
-Mesonet Cattle 
-Comfort Categories | Less | Pretty
---- | --- | ---
+Mesonet Cattle Comfort Categories | Mader et.al. Comprehensive Climate Index Categories | Impacts | Cattle Comfort Index °F
+--- | --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
