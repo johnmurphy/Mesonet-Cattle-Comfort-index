@@ -4,7 +4,7 @@ I am very interested in the cattle/livestock business and know several people th
 
 I thought would be interesting to automate the calculation of the Cattle Comfort Index values based on the formula provide by Mesonet.
 
-__Formula__
+__Formula:__
 The Mesonet Cattle Comfort Advisor model was developed and introduced as the Comprehensive Climate Index by Terry L. Mader and Leslie J. Johnson at the University of Nebraska and John B. Gaughan at the University of Queensland in Gatton, Australia.
 (Reference: A comprehensive index for assessing environmental stress in animals. 2010.T.L. Mader, Leslie J. Johnson and John B. Gaughan. Journal of Animal Science 2010,Volume 88: pages 2153-2165. The formula was corrected as Erratum in Journal of Animal Science 2011, Volume 89: page 2955. The 2011 corrected formula is included here.)
 
