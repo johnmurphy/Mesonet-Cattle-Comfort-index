@@ -1,6 +1,6 @@
 # Mesonet-Cattle-Comfort-index
 ### Background/Objective:
-<add information>
+Add background
 
 I thought would be interesting to automate the calculation of the Cattle Comfort Index values based on the formula provide in the Mesonet documentation.
 
@@ -10,7 +10,7 @@ The Mesonet Cattle Comfort Advisor model was developed and introduced as the Com
 
 ![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index/assets/38695469/b2f42fbc-1ca9-44fa-a803-c1ce247726fc)
 
-<add following>
+add addition thoughts
 
 ### Sources: 
 1. Mesonet Cattle Comfort Index: [Documentation](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
