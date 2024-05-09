@@ -1,6 +1,7 @@
 # Mesonet-Cattle-Comfort-index
 Python script to calculate the Mesonet Cattle Comfort index 
 
+![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index/assets/38695469/b2f42fbc-1ca9-44fa-a803-c1ce247726fc)
 
 ![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index-/assets/38695469/03ce62d8-9930-4e19-8c8b-3a731be37c4c)
 
