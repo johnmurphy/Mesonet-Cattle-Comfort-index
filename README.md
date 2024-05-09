@@ -12,10 +12,6 @@ The Mesonet Cattle Comfort Advisor model was developed and introduced as the Com
 
 In addition to understanding and analyzing the correlations, I wanted to think through some hypothetical business cases where a potential regression or classification model could be leveraged for identifying underserved markets where an organization/individual might invest in or launch a food service, where to advertise or sell advertising, where to target your staff training service, where to set up your distribution operations, and how to better invest your time, capital, and other resources.
 
-__Attributes__
-1. One
-1. Two
-
 ### Sources: 
 1. Mesonet Cattle Comfort Index: [Documentation](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
 1. Visual Crossing Weather Data: [Website](https://www.visualcrossing.com/)
