@@ -17,7 +17,7 @@ In addition to understanding and analyzing the correlations, I wanted to think t
 1. Visual Crossing Weather Data: [Website](https://www.visualcrossing.com/)
 1. Visual Crossing Weather Documentation: [Documentation](https://www.visualcrossing.com/resources/documentation/weather-data/weather-data-documentation/)
          
-### Microsoft PowerBI Dashboard Output (Day to Day)
+### Microsoft PowerBI Dashboard Outputs
 
 ![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index-/assets/38695469/03ce62d8-9930-4e19-8c8b-3a731be37c4c)
 
