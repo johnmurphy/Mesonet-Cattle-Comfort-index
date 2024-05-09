@@ -12,6 +12,15 @@ The Mesonet Cattle Comfort Advisor model was developed and introduced as the Com
 
 add addition thoughts
 
+| Mesonet Cattle Comfort Categories        | Mader et.al. Comprehensive Climate Index Categories           | Impacts  | Cattle Comfort Index °F |
+| ------------- |:-------------:| -----:|
+| Heat Danger      | Hot conditions:
+Extreme and Extreme Danger | Animal deaths may exceed 5% | >105 |
+| Heat Caution       | centered      |   $12 |
+| Comfortable | are neat      |    $1 |
+| Cold Caution | are neat      |    $1 |
+| Cold Danger | are neat      |    $1 |
+
 ### Sources: 
 1. Mesonet Cattle Comfort Index: [Documentation](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
 1. Visual Crossing Weather Data: [Website](https://www.visualcrossing.com/)
