@@ -12,7 +12,8 @@ The Mesonet Cattle Comfort Advisor model was developed and introduced as the Com
 
 add addition thoughts
 
-Mesonet Cattle Comfort Categories | Less | Pretty
+Mesonet Cattle 
+Comfort Categories | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
