@@ -2,7 +2,7 @@
 ### Background/Objective:
 I am very interested in the cattle/livestock business and know several people that work in this industry., if any, for the following attributes listed below and prepare the data, from different sources, for further analysis and reporting. I was particularly interested in correlations relating to NAICS 722 - Food services and drinking places. Do any of these attributes positively or negatively correlate? What is the strength of the correlation? Is there multicollinearity and if so how strong is it?  What do the relationships look like visually? Are there any outliers?
 
-I thought would be interesting to automate the calculation of the Cattle Comfort Index values based on the formula provide by Mesonet.
+I thought would be interesting to automate the calculation of the Cattle Comfort Index values based on the formula provide in the Mesonet documentation.
 
 __Formula:__
 The Mesonet Cattle Comfort Advisor model was developed and introduced as the Comprehensive Climate Index by Terry L. Mader and Leslie J. Johnson at the University of Nebraska and John B. Gaughan at the University of Queensland in Gatton, Australia.
