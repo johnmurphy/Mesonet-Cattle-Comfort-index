@@ -11,7 +11,9 @@ __Attributes__
 
 ### Sources: 
 1. Mesonet Cattle Comfort Index
-[Mesonet Cattle Comfort Advisor Description](https://www.bls.gov/cew/datatoc.htm)](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
+[Mesonet Cattle Comfort Advisor Description](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
+
+2. 
          
 
 
