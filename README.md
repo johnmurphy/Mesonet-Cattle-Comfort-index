@@ -16,10 +16,14 @@ __Attributes__
 1. Visual Crossing Weather Data: [Website](https://www.visualcrossing.com/)
 1. Visual Crossing Documentation: [Documentation](https://www.visualcrossing.com/resources/documentation/weather-data/weather-data-documentation/)
          
-__Microsoft PowerBI Dashboard Output__
+### Microsoft PowerBI Dashboard Output
+
+__Day to Day Breakdown__
 ![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index-/assets/38695469/03ce62d8-9930-4e19-8c8b-3a731be37c4c)
+
 __Microsoft PowerBI Dashboard Output__
 ![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index-/assets/38695469/a3910ab9-794f-4d80-8a63-179a7d7df821)
+
 __Microsoft PowerBI Dashboard Output__
 ![image](https://github.com/johnmurphy/Mesonet-Cattle-Comfort-index-/assets/38695469/ef60a62e-84ee-41eb-986d-36e3beb2becc)
 
