@@ -12,9 +12,9 @@ __Attributes__
 ### Sources: 
 1. Mesonet Cattle Comfort Index
 [Mesonet Cattle Comfort Advisor Description](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
-2.[Weather Data Source]
+1.[Weather Data Source]
 (https://www.visualcrossing.com/)
-3.[Weather Data Source Documentation]
+1.[Weather Data Source Documentation]
 (https://www.visualcrossing.com/resources/documentation/weather-data/weather-data-documentation/)
          
 
