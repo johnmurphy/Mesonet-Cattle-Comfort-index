@@ -20,7 +20,7 @@ Heat Caution | Hot conditions: Moderate and Severe | Decreased production, 20% o
 Comfortable | Hot conditions: Mild Comfortable Cold conditions: Mild |   | 15 to 85
 Cold Caution  | Cold conditions: Moderate and Severe | 18-36% increase in dry animal feed | < 15 to -20
 Cold Danger  | Cold conditions: Extreme and Extreme Danger |   | < -20
-### Sources: 
+### Sources
 1. Mesonet Cattle Comfort Index: [Documentation](https://content.prod.mesonet.org/learn/ag/tools_documentation/Cattle_Comfort_Description.201605.pdf)
 1. Visual Crossing Weather Data: [Website](https://www.visualcrossing.com/)
 1. Visual Crossing Weather Documentation: [Documentation](https://www.visualcrossing.com/resources/documentation/weather-data/weather-data-documentation/)
